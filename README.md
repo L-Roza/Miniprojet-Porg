@@ -15,7 +15,8 @@ Le projet permet de :
 3. Stocker les mesures dans une base de données MongoDB locale.
 4. Détecter les anomalies de consommation via un seuil configurable.
 5. Assurer la qualité du code grâce à pytest pour les tests unitaires et flake8 pour le respect du style PEP8.
-## Structure du projet
+## Structure du projet  
+
 Projet/  
 ├── capteurs/                    
 │   └── capteur.py  
