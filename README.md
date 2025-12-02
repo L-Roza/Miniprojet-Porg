@@ -34,10 +34,10 @@ Projet/
 
 ## Installation
 1. ** Cloner le dépôt : **
-   ---
+   
    git clone <URL_DU_DEPOT>
    cd ProjetProg
-   ---
+   
 2. ** Créer un environnement virtuel Python : **
    ---
    python -m venv venv
