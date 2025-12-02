@@ -31,7 +31,7 @@ Projet/
 ├── main.py                     
 ├── requirements.txt             
 └── README.md                  
---
+
 ## Installation
 1. ** Cloner le dépôt : **
    ---
