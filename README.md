@@ -33,11 +33,11 @@ Projet/
 └── README.md                  
 
 ## Installation
-1. **Cloner le dépôt :**
-   '''
+1. **Cloner le dépôt :**  
+   ```
    git clone <URL_DU_DEPOT>  
    cd ProjetProg
-   '''
+   ```
    
 3. ** Créer un environnement virtuel Python : **
    ---
