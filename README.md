@@ -29,6 +29,30 @@ Projet/
 │   └── test_mongo_manager.py  
 ├── main.py                    # Script principal de simulation  
 ├── requirements.txt           # Dépendances du projet  
+
 └── README.md                  # Documentation  
+--
+## Installation
+1. ** Cloner le dépôt : **
+   ---
+   git clone <URL_DU_DEPOT>
+   cd ProjetProg
+   ---
+2. ** Créer un environnement virtuel Python : **
+   ---
+   python -m venv venv
+   ---
+3. Activer l’environnement :
+   ---
+     # Windows PowerShell
+     .\venv\Scripts\Activate
+   ---
+4. Installer les dépendances :
+   ---
+     pip install -r requirements.txt
+   ---
+5. Assurez-vous que MongoDB est installé et en cours d’exécution sur
+   localhost:27017
+
 
 
