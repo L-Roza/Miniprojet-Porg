@@ -17,19 +17,19 @@ Le projet permet de :
 5. Assurer la qualité du code grâce à pytest pour les tests unitaires et flake8 pour le respect du style PEP8.
 ## Structure du projet
 Projet/  
-├── capteurs/                  # Classes et simulation des capteurs  
+├── capteurs/                    
 │   └── capteur.py  
-├── analytics/                 # Détection d’anomalies  
+├── analytics/                   
 │   └── anomaly_detector.py  
-├── database/                  # Gestion de MongoDB  
+├── database/                   
 │   └── mongo_manager.py  
-├── tests/                     # Tests unitaires  
+├── tests/                     
 │   ├── test_capteur.py  
 │   ├── test_anomaly_detector.py  
 │   └── test_mongo_manager.py  
-├── main.py                    # Script principal de simulation  
-├── requirements.txt           # Dépendances du projet  
-└── README.md                  # Documentation  
+├── main.py                     
+├── requirements.txt             
+└── README.md                  
 --
 ## Installation
 1. ** Cloner le dépôt : **
