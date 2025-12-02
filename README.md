@@ -29,7 +29,6 @@ Projet/
 │   └── test_mongo_manager.py  
 ├── main.py                    # Script principal de simulation  
 ├── requirements.txt           # Dépendances du projet  
-
 └── README.md                  # Documentation  
 --
 ## Installation
