@@ -7,7 +7,7 @@ Il repose sur :
 * La simulation de capteurs IoT
 * La détection d’anomalies
 * L’enregistrement des données dans une base MongoDB
-  
+---
 ## Objectifs  
 Le projet permet de :  
 1. Mettre en place une architecture orientée objet claire et modulable.
