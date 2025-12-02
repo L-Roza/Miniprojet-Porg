@@ -1,6 +1,6 @@
 # Base de données EnergyDB
-Classe classe-Mongomanager.png
-![calsse Mongomanager](/images/classe-Mongomanager.png)
+Classe classe-Mongomanager.png  
+![calsse Mongomanager](/images/classe-Mongomanager.png)  
 La classe gére les interactions avec MongoDB.  
 Elle permet de :  
     * Se connecter à une base MongoDB
