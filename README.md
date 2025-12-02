@@ -39,21 +39,23 @@ Projet/
    cd ProjetProg
    ```
    
-3. ** Créer un environnement virtuel Python : **
-   ---
+3. **Créer un environnement virtuel Python :**
+  ```
    python -m venv venv
-   ---
-4. Activer l’environnement :
-   ---
+  ```
+4. **Activer l’environnement :**
+    ```
      # Windows PowerShell
      .\venv\Scripts\Activate
-   ---
-5. Installer les dépendances :
-   ---
+    ```
+5. **Installer les dépendances :**
+    ```
      pip install -r requirements.txt
-   ---
+    ```
 6. Assurez-vous que MongoDB est installé et en cours d’exécution sur
+    ```
    localhost:27017
+    ```
 
 
 
