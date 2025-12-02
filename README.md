@@ -56,6 +56,8 @@ Projet/
     ```
    localhost:27017
     ```
-
+## Auteur
+Mme Lachi Roza  
+Spécialité Informatique Conduite de projets informatiques (CPI)
 
 
